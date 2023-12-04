@@ -1,0 +1,1 @@
+Contents of the file - This is the first file being created in the repo shaku-localrepo
